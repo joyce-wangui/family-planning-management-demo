@@ -1,0 +1,87 @@
+/* =========================================================
+   FAMILY PLANNING MANAGEMENT SYSTEM
+   Global Interface Styling
+   ========================================================= */
+
+/* Main application text */
+html, body, [class*="css"] {
+    font-family: Arial, sans-serif;
+}
+
+/* Main page text */
+.stMarkdown,
+.stText,
+p,
+label {
+    font-size: 17px;
+    line-height: 1.6;
+}
+
+/* Main page title */
+h1 {
+    font-size: 36px !important;
+    font-weight: 700 !important;
+    line-height: 1.2 !important;
+}
+
+/* Section headings */
+h2 {
+    font-size: 27px !important;
+    font-weight: 700 !important;
+}
+
+/* Subsection headings */
+h3 {
+    font-size: 22px !important;
+    font-weight: 600 !important;
+}
+
+/* Metric labels */
+[data-testid="stMetricLabel"] {
+    font-size: 16px !important;
+    font-weight: 600 !important;
+}
+
+/* Metric values */
+[data-testid="stMetricValue"] {
+    font-size: 30px !important;
+    font-weight: 700 !important;
+}
+
+/* Sidebar text */
+[data-testid="stSidebar"] p,
+[data-testid="stSidebar"] label {
+    font-size: 16px !important;
+}
+
+/* Sidebar navigation */
+[data-testid="stSidebarNav"] span {
+    font-size: 16px !important;
+}
+
+/* Buttons */
+.stButton button {
+    font-size: 16px !important;
+    font-weight: 600 !important;
+    padding: 0.55rem 1rem !important;
+}
+
+/* Select boxes */
+[data-baseweb="select"] {
+    font-size: 16px !important;
+}
+
+/* Data tables */
+[data-testid="stDataFrame"] {
+    font-size: 15px !important;
+}
+
+/* Alerts and information boxes */
+[data-testid="stAlert"] {
+    font-size: 16px !important;
+}
+
+/* Captions */
+.stCaption {
+    font-size: 14px !important;
+}

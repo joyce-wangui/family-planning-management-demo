@@ -1,0 +1,241 @@
+client_id,encounter_id,date,month,sex,age,client_type,first_ever_user,method,visit_type_for_method,quantity_dispensed,client_count,counselled_for_fp,counselled_for_hiv,hiv_tested,hiv_status,ppfp_timing,tb_screening,cervical_cancer_screening,referral
+DEMO-C0001,DEMO-E00001,2026-02-27,2026-02-01,Female,39,New,No,Male Condoms,Switching,10,1,Yes,Yes,Yes,Positive,48 hours,Not screened,Not eligible,None
+DEMO-C0002,DEMO-E00002,2026-04-12,2026-04-01,Female,36,Revisit,Yes,Combined Oral Contraceptive Pills,Initiation,2,1,Yes,Yes,Yes,Unknown,48 hours,Negative,Not done,None
+DEMO-C0003,DEMO-E00003,2026-07-14,2026-07-01,Female,41,Revisit,No,Progestin Only Pills,Initiation,1,1,No,Yes,No,Unknown,48 hours,Not screened,Done,None
+DEMO-C0004,DEMO-E00004,2026-04-27,2026-04-01,Female,30,Revisit,Yes,DMPA-SC,Check-up,1,1,Yes,Yes,No,Negative,48 hours,Not screened,Not eligible,None
+DEMO-C0005,DEMO-E00005,2026-08-25,2026-08-01,Female,25,Revisit,No,Emergency Contraception,Initiation,3,1,Yes,Yes,Yes,Unknown,Immediate,Negative,Not eligible,None
+DEMO-C0006,DEMO-E00006,2026-06-11,2026-06-01,Female,22,Revisit,Yes,Implant 1 Rod,Revisit,2,1,Yes,Yes,No,Not tested,Not applicable,Positive,Done,Yes
+DEMO-C0007,DEMO-E00007,2026-03-12,2026-03-01,Female,22,New,No,Male Condoms,Resupply,10,1,Yes,Yes,No,Not tested,6 weeks,Not screened,Done,None
+DEMO-C0008,DEMO-E00008,2026-02-28,2026-02-01,Female,21,Revisit,Yes,Male Condoms,Revisit,30,1,Yes,No,No,Unknown,48 hours,Not screened,Done,None
+DEMO-C0009,DEMO-E00009,2026-06-02,2026-06-01,Male,42,Revisit,Yes,Male Condoms,Switching,30,1,Yes,Yes,Yes,Negative,6 weeks,Positive,Done,None
+DEMO-C0010,DEMO-E00010,2026-02-10,2026-02-01,Female,42,Revisit,Yes,Male Condoms,Resupply,50,1,No,Yes,Yes,Not tested,48 hours,Not screened,Not eligible,None
+DEMO-C0011,DEMO-E00011,2026-06-09,2026-06-01,Female,21,Revisit,Yes,Female Condoms,Initiation,5,1,Yes,Yes,Yes,Positive,Immediate,Negative,Not eligible,None
+DEMO-C0012,DEMO-E00012,2026-04-28,2026-04-01,Female,25,New,Yes,Male Condoms,Resupply,50,1,Yes,Yes,No,Not tested,48 hours,Positive,Not done,None
+DEMO-C0013,DEMO-E00013,2026-02-19,2026-02-01,Female,39,New,No,Combined Oral Contraceptive Pills,Initiation,1,1,Yes,No,No,Negative,48 hours,Negative,Done,None
+DEMO-C0014,DEMO-E00014,2026-03-13,2026-03-01,Female,32,New,No,Male Condoms,Switching,10,1,Yes,Yes,Yes,Negative,Immediate,Negative,Done,None
+DEMO-C0015,DEMO-E00015,2026-09-04,2026-09-01,Female,18,Revisit,No,Male Condoms,Check-up,40,1,No,No,Yes,Not tested,48 hours,Negative,Not done,None
+DEMO-C0016,DEMO-E00016,2026-01-30,2026-01-01,Female,19,Revisit,No,DMPA-IM,Switching,1,1,Yes,Yes,Yes,Negative,48 hours,Negative,Not eligible,None
+DEMO-C0017,DEMO-E00017,2026-05-01,2026-05-01,Female,37,Revisit,Yes,Progestin Only Pills,Initiation,3,1,Yes,Yes,Yes,Unknown,48 hours,Not screened,Not eligible,None
+DEMO-C0018,DEMO-E00018,2026-05-16,2026-05-01,Female,42,Revisit,No,Male Condoms,Initiation,30,1,Yes,No,No,Negative,48 hours,Not screened,Not done,None
+DEMO-C0019,DEMO-E00019,2026-06-28,2026-06-01,Male,32,Revisit,No,Female Condoms,Check-up,2,1,Yes,No,No,Negative,6 weeks,Not screened,Done,Yes
+DEMO-C0020,DEMO-E00020,2026-03-10,2026-03-01,Female,26,Revisit,Yes,DMPA-IM,Revisit,1,1,Yes,Yes,No,Unknown,Not applicable,Positive,Done,None
+DEMO-C0021,DEMO-E00021,2026-08-05,2026-08-01,Male,38,New,No,Male Condoms,Revisit,20,1,Yes,Yes,Yes,Negative,Immediate,Negative,Not eligible,None
+DEMO-C0022,DEMO-E00022,2026-01-19,2026-01-01,Male,19,Revisit,Yes,Male Condoms,Initiation,20,1,Yes,Yes,Yes,Negative,6 weeks,Not screened,Not done,Yes
+DEMO-C0023,DEMO-E00023,2026-03-21,2026-03-01,Male,31,New,Yes,Male Condoms,Check-up,20,1,Yes,Yes,No,Positive,6 weeks,Negative,Not eligible,None
+DEMO-C0024,DEMO-E00024,2026-01-20,2026-01-01,Male,29,New,Yes,DMPA-SC,Revisit,2,1,Yes,Yes,Yes,Unknown,Immediate,Positive,Not done,None
+DEMO-C0025,DEMO-E00025,2026-07-24,2026-07-01,Female,21,Revisit,No,Male Condoms,Check-up,10,1,Yes,No,Yes,Negative,Not applicable,Positive,Not eligible,None
+DEMO-C0026,DEMO-E00026,2026-08-12,2026-08-01,Female,26,Revisit,Yes,Female Condoms,Resupply,2,1,Yes,No,Yes,Positive,6 weeks,Positive,Done,Yes
+DEMO-C0027,DEMO-E00027,2026-06-19,2026-06-01,Female,34,Revisit,Yes,Male Condoms,Resupply,30,1,Yes,Yes,No,Positive,Not applicable,Not screened,Not done,None
+DEMO-C0028,DEMO-E00028,2026-03-31,2026-03-01,Female,27,New,Yes,Progestin Only Pills,Resupply,1,1,Yes,Yes,Yes,Not tested,Not applicable,Not screened,Done,None
+DEMO-C0029,DEMO-E00029,2026-03-28,2026-03-01,Female,28,New,Yes,DMPA-IM,Revisit,3,1,Yes,Yes,Yes,Negative,Immediate,Negative,Not done,None
+DEMO-C0030,DEMO-E00030,2026-02-07,2026-02-01,Female,33,Revisit,No,Progestin Only Pills,Revisit,2,1,Yes,Yes,No,Negative,Not applicable,Negative,Done,None
+DEMO-C0031,DEMO-E00031,2026-09-23,2026-09-01,Female,32,Revisit,Yes,Implant 1 Rod,Resupply,1,1,Yes,No,No,Not tested,Not applicable,Not screened,Not done,None
+DEMO-C0032,DEMO-E00032,2026-09-01,2026-09-01,Female,42,Revisit,No,DMPA-SC,Resupply,1,1,Yes,Yes,Yes,Unknown,48 hours,Positive,Not done,None
+DEMO-C0033,DEMO-E00033,2026-02-11,2026-02-01,Female,20,New,No,DMPA-IM,Check-up,1,1,Yes,Yes,Yes,Not tested,Not applicable,Not screened,Not eligible,None
+DEMO-C0034,DEMO-E00034,2026-07-14,2026-07-01,Female,45,Revisit,No,Male Condoms,Resupply,40,1,Yes,No,No,Positive,Not applicable,Negative,Not done,None
+DEMO-C0035,DEMO-E00035,2026-01-15,2026-01-01,Female,44,Revisit,No,DMPA-SC,Revisit,1,1,No,Yes,No,Negative,Immediate,Not screened,Not done,None
+DEMO-C0036,DEMO-E00036,2026-08-25,2026-08-01,Female,28,New,No,Male Condoms,Resupply,40,1,Yes,No,Yes,Negative,Not applicable,Negative,Not eligible,None
+DEMO-C0037,DEMO-E00037,2026-06-29,2026-06-01,Female,42,New,Yes,Implant 2 Rods,Revisit,1,1,Yes,Yes,Yes,Positive,Not applicable,Not screened,Done,None
+DEMO-C0038,DEMO-E00038,2026-04-22,2026-04-01,Female,42,New,No,Female Condoms,Check-up,1,1,Yes,Yes,Yes,Not tested,Not applicable,Not screened,Done,None
+DEMO-C0039,DEMO-E00039,2026-05-05,2026-05-01,Female,43,Revisit,Yes,DMPA-SC,Switching,3,1,Yes,Yes,Yes,Unknown,Immediate,Not screened,Not eligible,None
+DEMO-C0040,DEMO-E00040,2026-08-04,2026-08-01,Male,40,New,Yes,Implant 2 Rods,Revisit,2,1,Yes,No,Yes,Not tested,Not applicable,Positive,Not eligible,None
+DEMO-C0041,DEMO-E00041,2026-06-15,2026-06-01,Male,25,Revisit,No,Male Condoms,Switching,40,1,Yes,Yes,Yes,Unknown,48 hours,Positive,Done,None
+DEMO-C0042,DEMO-E00042,2026-05-13,2026-05-01,Female,35,Revisit,Yes,DMPA-IM,Revisit,1,1,Yes,No,Yes,Positive,Not applicable,Not screened,Not eligible,None
+DEMO-C0043,DEMO-E00043,2026-01-09,2026-01-01,Female,39,New,No,DMPA-IM,Resupply,1,1,Yes,Yes,No,Unknown,6 weeks,Not screened,Not done,None
+DEMO-C0044,DEMO-E00044,2026-05-09,2026-05-01,Female,42,Revisit,No,Male Condoms,Revisit,50,1,Yes,Yes,No,Unknown,Immediate,Negative,Not done,None
+DEMO-C0045,DEMO-E00045,2026-04-02,2026-04-01,Female,19,Revisit,No,Male Condoms,Revisit,10,1,Yes,No,Yes,Negative,6 weeks,Positive,Not done,None
+DEMO-C0046,DEMO-E00046,2026-04-05,2026-04-01,Male,44,New,Yes,Implant 1 Rod,Resupply,1,1,Yes,Yes,Yes,Positive,6 weeks,Negative,Done,None
+DEMO-C0047,DEMO-E00047,2026-08-02,2026-08-01,Female,30,Revisit,No,Male Condoms,Resupply,50,1,Yes,Yes,Yes,Negative,Immediate,Negative,Not eligible,None
+DEMO-C0048,DEMO-E00048,2026-02-11,2026-02-01,Female,31,New,No,Male Condoms,Switching,10,1,Yes,Yes,Yes,Unknown,Not applicable,Negative,Not eligible,None
+DEMO-C0049,DEMO-E00049,2026-05-16,2026-05-01,Female,31,Revisit,Yes,DMPA-IM,Revisit,1,1,Yes,No,No,Negative,Immediate,Negative,Not done,None
+DEMO-C0050,DEMO-E00050,2026-05-28,2026-05-01,Female,26,Revisit,No,Male Condoms,Resupply,40,1,Yes,Yes,No,Unknown,6 weeks,Negative,Done,None
+DEMO-C0051,DEMO-E00051,2026-01-11,2026-01-01,Male,42,Revisit,No,Male Condoms,Resupply,10,1,Yes,Yes,Yes,Not tested,Not applicable,Negative,Not done,None
+DEMO-C0052,DEMO-E00052,2026-06-20,2026-06-01,Female,40,New,No,Male Condoms,Resupply,40,1,Yes,Yes,Yes,Unknown,6 weeks,Positive,Done,Yes
+DEMO-C0053,DEMO-E00053,2026-07-26,2026-07-01,Male,32,Revisit,No,Male Condoms,Revisit,50,1,Yes,Yes,Yes,Not tested,Immediate,Negative,Not done,None
+DEMO-C0054,DEMO-E00054,2026-05-28,2026-05-01,Female,43,Revisit,Yes,Male Condoms,Revisit,50,1,Yes,Yes,Yes,Positive,Immediate,Positive,Done,None
+DEMO-C0055,DEMO-E00055,2026-03-20,2026-03-01,Female,31,Revisit,No,Combined Oral Contraceptive Pills,Resupply,1,1,Yes,Yes,Yes,Positive,Immediate,Positive,Not done,None
+DEMO-C0056,DEMO-E00056,2026-09-17,2026-09-01,Female,36,New,No,DMPA-IM,Resupply,3,1,Yes,Yes,Yes,Unknown,Not applicable,Positive,Not done,None
+DEMO-C0057,DEMO-E00057,2026-05-03,2026-05-01,Female,28,New,No,DMPA-IM,Resupply,1,1,Yes,Yes,No,Positive,Not applicable,Negative,Done,None
+DEMO-C0058,DEMO-E00058,2026-06-19,2026-06-01,Male,32,Revisit,Yes,Combined Oral Contraceptive Pills,Revisit,3,1,Yes,Yes,Yes,Not tested,6 weeks,Positive,Not eligible,None
+DEMO-C0059,DEMO-E00059,2026-02-11,2026-02-01,Male,28,Revisit,No,DMPA-SC,Resupply,2,1,Yes,Yes,Yes,Unknown,48 hours,Not screened,Done,None
+DEMO-C0060,DEMO-E00060,2026-02-20,2026-02-01,Female,40,Revisit,Yes,Male Condoms,Initiation,20,1,Yes,No,Yes,Unknown,Not applicable,Negative,Done,None
+DEMO-C0061,DEMO-E00061,2026-04-03,2026-04-01,Female,39,New,Yes,Implant 1 Rod,Switching,3,1,Yes,Yes,Yes,Unknown,Immediate,Positive,Not done,None
+DEMO-C0062,DEMO-E00062,2026-03-22,2026-03-01,Female,38,Revisit,No,IUCD,Check-up,1,1,Yes,Yes,No,Not tested,Immediate,Negative,Not done,None
+DEMO-C0063,DEMO-E00063,2026-06-01,2026-06-01,Male,26,New,Yes,IUCD,Initiation,2,1,Yes,No,No,Unknown,48 hours,Not screened,Not done,None
+DEMO-C0064,DEMO-E00064,2026-04-08,2026-04-01,Female,38,Revisit,Yes,DMPA-IM,Initiation,1,1,Yes,Yes,No,Positive,Immediate,Positive,Not done,None
+DEMO-C0065,DEMO-E00065,2026-03-31,2026-03-01,Female,34,Revisit,No,Implant 1 Rod,Check-up,1,1,Yes,Yes,No,Not tested,6 weeks,Not screened,Not done,None
+DEMO-C0066,DEMO-E00066,2026-08-28,2026-08-01,Male,45,New,No,Implant 2 Rods,Check-up,2,1,Yes,Yes,Yes,Negative,Not applicable,Positive,Not eligible,None
+DEMO-C0067,DEMO-E00067,2026-05-15,2026-05-01,Female,39,Revisit,Yes,Implant 2 Rods,Initiation,1,1,Yes,No,Yes,Positive,Immediate,Not screened,Not done,None
+DEMO-C0068,DEMO-E00068,2026-06-04,2026-06-01,Female,27,New,No,Male Condoms,Initiation,10,1,Yes,No,Yes,Not tested,6 weeks,Not screened,Not eligible,None
+DEMO-C0069,DEMO-E00069,2026-08-03,2026-08-01,Female,44,Revisit,No,Implant 1 Rod,Resupply,1,1,No,Yes,No,Positive,Not applicable,Positive,Done,None
+DEMO-C0070,DEMO-E00070,2026-02-20,2026-02-01,Male,19,New,No,Implant 1 Rod,Revisit,1,1,No,No,No,Negative,48 hours,Not screened,Not eligible,None
+DEMO-C0071,DEMO-E00071,2026-01-11,2026-01-01,Female,24,New,Yes,IUCD,Switching,3,1,Yes,Yes,No,Unknown,48 hours,Not screened,Done,None
+DEMO-C0072,DEMO-E00072,2026-03-16,2026-03-01,Male,39,Revisit,No,DMPA-SC,Revisit,1,1,Yes,No,Yes,Unknown,Immediate,Negative,Not done,None
+DEMO-C0073,DEMO-E00073,2026-08-04,2026-08-01,Female,34,Revisit,No,Combined Oral Contraceptive Pills,Resupply,1,1,Yes,No,Yes,Unknown,Not applicable,Not screened,Done,None
+DEMO-C0074,DEMO-E00074,2026-09-03,2026-09-01,Male,20,Revisit,No,Male Condoms,Check-up,40,1,Yes,Yes,Yes,Unknown,Not applicable,Not screened,Not eligible,None
+DEMO-C0075,DEMO-E00075,2026-09-16,2026-09-01,Female,41,New,No,DMPA-IM,Resupply,3,1,Yes,Yes,Yes,Not tested,Not applicable,Positive,Not eligible,None
+DEMO-C0076,DEMO-E00076,2026-08-07,2026-08-01,Female,20,New,Yes,Implant 2 Rods,Initiation,2,1,Yes,Yes,No,Positive,Immediate,Not screened,Not eligible,None
+DEMO-C0077,DEMO-E00077,2026-03-04,2026-03-01,Female,45,Revisit,No,Implant 2 Rods,Initiation,2,1,No,Yes,Yes,Positive,48 hours,Not screened,Not done,None
+DEMO-C0078,DEMO-E00078,2026-02-25,2026-02-01,Female,36,Revisit,Yes,Male Condoms,Resupply,30,1,Yes,No,No,Negative,6 weeks,Negative,Done,None
+DEMO-C0079,DEMO-E00079,2026-06-08,2026-06-01,Male,36,New,No,Male Condoms,Initiation,20,1,Yes,Yes,Yes,Positive,Not applicable,Positive,Not done,None
+DEMO-C0080,DEMO-E00080,2026-07-09,2026-07-01,Female,20,New,No,Implant 2 Rods,Revisit,3,1,Yes,Yes,No,Unknown,Not applicable,Not screened,Not done,None
+DEMO-C0081,DEMO-E00081,2026-08-15,2026-08-01,Female,31,New,Yes,Combined Oral Contraceptive Pills,Switching,1,1,Yes,Yes,Yes,Not tested,Immediate,Negative,Done,None
+DEMO-C0082,DEMO-E00082,2026-04-19,2026-04-01,Female,18,Revisit,No,Male Condoms,Resupply,10,1,Yes,Yes,No,Unknown,Immediate,Positive,Not eligible,None
+DEMO-C0083,DEMO-E00083,2026-01-10,2026-01-01,Female,36,New,No,Male Condoms,Resupply,40,1,Yes,Yes,No,Positive,Not applicable,Not screened,Not done,None
+DEMO-C0084,DEMO-E00084,2026-02-24,2026-02-01,Female,45,Revisit,Yes,Progestin Only Pills,Check-up,2,1,Yes,No,Yes,Negative,48 hours,Positive,Not done,None
+DEMO-C0085,DEMO-E00085,2026-03-17,2026-03-01,Female,22,New,No,Male Condoms,Initiation,50,1,Yes,No,Yes,Not tested,6 weeks,Not screened,Not done,None
+DEMO-C0086,DEMO-E00086,2026-02-04,2026-02-01,Female,19,Revisit,No,DMPA-SC,Initiation,3,1,Yes,Yes,Yes,Unknown,Immediate,Not screened,Done,None
+DEMO-C0087,DEMO-E00087,2026-09-17,2026-09-01,Female,32,Revisit,No,Implant 2 Rods,Switching,1,1,Yes,Yes,Yes,Positive,Immediate,Positive,Done,None
+DEMO-C0088,DEMO-E00088,2026-06-25,2026-06-01,Male,25,New,No,Emergency Contraception,Resupply,1,1,Yes,Yes,Yes,Unknown,Not applicable,Positive,Not done,None
+DEMO-C0089,DEMO-E00089,2026-01-27,2026-01-01,Female,35,Revisit,No,Male Condoms,Check-up,10,1,Yes,No,No,Positive,6 weeks,Negative,Not eligible,None
+DEMO-C0090,DEMO-E00090,2026-06-29,2026-06-01,Female,37,Revisit,No,DMPA-IM,Initiation,1,1,Yes,Yes,No,Positive,Immediate,Not screened,Not eligible,None
+DEMO-C0091,DEMO-E00091,2026-07-05,2026-07-01,Female,42,New,No,Implant 2 Rods,Revisit,1,1,No,Yes,Yes,Negative,Immediate,Not screened,Not done,None
+DEMO-C0092,DEMO-E00092,2026-03-09,2026-03-01,Female,43,New,No,Male Condoms,Resupply,50,1,Yes,Yes,No,Not tested,6 weeks,Not screened,Not done,None
+DEMO-C0093,DEMO-E00093,2026-05-03,2026-05-01,Female,29,Revisit,No,Combined Oral Contraceptive Pills,Switching,1,1,No,Yes,Yes,Not tested,Not applicable,Negative,Done,None
+DEMO-C0094,DEMO-E00094,2026-03-12,2026-03-01,Male,35,New,No,Combined Oral Contraceptive Pills,Switching,1,1,Yes,Yes,No,Unknown,Not applicable,Not screened,Done,None
+DEMO-C0095,DEMO-E00095,2026-02-16,2026-02-01,Male,18,New,No,Combined Oral Contraceptive Pills,Resupply,1,1,Yes,Yes,No,Unknown,48 hours,Negative,Not done,Yes
+DEMO-C0096,DEMO-E00096,2026-06-21,2026-06-01,Male,40,New,No,Male Condoms,Resupply,40,1,Yes,Yes,Yes,Unknown,48 hours,Negative,Not eligible,Yes
+DEMO-C0097,DEMO-E00097,2026-09-28,2026-09-01,Female,19,Revisit,Yes,Male Condoms,Switching,10,1,Yes,Yes,No,Negative,48 hours,Not screened,Done,None
+DEMO-C0098,DEMO-E00098,2026-01-01,2026-01-01,Female,34,New,No,Combined Oral Contraceptive Pills,Initiation,1,1,No,Yes,No,Negative,Not applicable,Positive,Done,None
+DEMO-C0099,DEMO-E00099,2026-07-11,2026-07-01,Female,25,New,No,DMPA-SC,Initiation,1,1,Yes,No,Yes,Negative,6 weeks,Not screened,Not done,None
+DEMO-C0100,DEMO-E00100,2026-03-31,2026-03-01,Male,38,Revisit,Yes,IUCD,Revisit,2,1,Yes,No,Yes,Unknown,48 hours,Negative,Done,None
+DEMO-C0101,DEMO-E00101,2026-06-11,2026-06-01,Male,33,Revisit,Yes,IUCD,Revisit,3,1,Yes,No,Yes,Unknown,6 weeks,Negative,Not done,None
+DEMO-C0102,DEMO-E00102,2026-07-24,2026-07-01,Female,33,Revisit,No,Female Condoms,Check-up,2,1,No,Yes,No,Not tested,Immediate,Positive,Not eligible,Yes
+DEMO-C0103,DEMO-E00103,2026-04-03,2026-04-01,Female,27,New,No,Male Condoms,Resupply,30,1,Yes,Yes,Yes,Unknown,Not applicable,Positive,Not eligible,Yes
+DEMO-C0104,DEMO-E00104,2026-01-30,2026-01-01,Female,18,Revisit,Yes,Female Condoms,Switching,2,1,Yes,Yes,Yes,Positive,6 weeks,Positive,Not done,Yes
+DEMO-C0105,DEMO-E00105,2026-01-17,2026-01-01,Female,32,Revisit,No,Implant 2 Rods,Switching,1,1,Yes,Yes,Yes,Unknown,48 hours,Negative,Done,None
+DEMO-C0106,DEMO-E00106,2026-09-13,2026-09-01,Female,40,Revisit,No,Male Condoms,Switching,30,1,Yes,No,Yes,Negative,48 hours,Negative,Not done,None
+DEMO-C0107,DEMO-E00107,2026-08-16,2026-08-01,Male,39,Revisit,No,Implant 2 Rods,Initiation,1,1,Yes,Yes,Yes,Positive,48 hours,Positive,Not eligible,None
+DEMO-C0108,DEMO-E00108,2026-04-13,2026-04-01,Male,35,New,No,Combined Oral Contraceptive Pills,Resupply,1,1,Yes,Yes,No,Negative,Immediate,Positive,Not done,Yes
+DEMO-C0109,DEMO-E00109,2026-09-03,2026-09-01,Female,22,Revisit,No,DMPA-SC,Initiation,1,1,Yes,Yes,Yes,Positive,48 hours,Positive,Not eligible,None
+DEMO-C0110,DEMO-E00110,2026-01-29,2026-01-01,Male,28,Revisit,No,Male Condoms,Revisit,20,1,Yes,No,No,Negative,6 weeks,Negative,Not eligible,Yes
+DEMO-C0111,DEMO-E00111,2026-05-21,2026-05-01,Female,38,New,Yes,Progestin Only Pills,Switching,3,1,Yes,Yes,No,Unknown,Immediate,Negative,Done,None
+DEMO-C0112,DEMO-E00112,2026-05-16,2026-05-01,Female,33,Revisit,No,Combined Oral Contraceptive Pills,Switching,1,1,Yes,No,Yes,Not tested,6 weeks,Positive,Done,None
+DEMO-C0113,DEMO-E00113,2026-03-22,2026-03-01,Female,22,Revisit,Yes,Male Condoms,Check-up,50,1,Yes,No,No,Positive,6 weeks,Not screened,Not eligible,None
+DEMO-C0114,DEMO-E00114,2026-05-04,2026-05-01,Female,19,New,Yes,Male Condoms,Resupply,10,1,Yes,Yes,No,Positive,6 weeks,Not screened,Not eligible,None
+DEMO-C0115,DEMO-E00115,2026-03-23,2026-03-01,Female,33,Revisit,Yes,Combined Oral Contraceptive Pills,Resupply,1,1,Yes,No,Yes,Unknown,Immediate,Negative,Not done,None
+DEMO-C0116,DEMO-E00116,2026-08-29,2026-08-01,Female,26,New,No,Male Condoms,Resupply,20,1,Yes,Yes,No,Positive,6 weeks,Not screened,Not done,None
+DEMO-C0117,DEMO-E00117,2026-09-16,2026-09-01,Female,39,Revisit,No,DMPA-SC,Revisit,3,1,No,Yes,No,Unknown,6 weeks,Negative,Done,None
+DEMO-C0118,DEMO-E00118,2026-07-25,2026-07-01,Female,43,New,No,Male Condoms,Resupply,30,1,Yes,No,Yes,Unknown,48 hours,Positive,Not eligible,None
+DEMO-C0119,DEMO-E00119,2026-06-03,2026-06-01,Female,40,Revisit,No,Combined Oral Contraceptive Pills,Resupply,2,1,Yes,Yes,No,Not tested,6 weeks,Not screened,Not eligible,None
+DEMO-C0120,DEMO-E00120,2026-08-31,2026-08-01,Female,36,Revisit,Yes,IUCD,Initiation,3,1,Yes,Yes,No,Not tested,48 hours,Not screened,Done,None
+DEMO-C0121,DEMO-E00121,2026-02-26,2026-02-01,Female,40,Revisit,Yes,Combined Oral Contraceptive Pills,Switching,2,1,Yes,No,No,Negative,48 hours,Not screened,Done,None
+DEMO-C0122,DEMO-E00122,2026-09-02,2026-09-01,Female,28,New,No,Male Condoms,Check-up,50,1,Yes,Yes,Yes,Unknown,48 hours,Positive,Not done,None
+DEMO-C0123,DEMO-E00123,2026-09-08,2026-09-01,Female,27,New,Yes,Implant 2 Rods,Switching,1,1,Yes,No,No,Positive,6 weeks,Negative,Not done,Yes
+DEMO-C0124,DEMO-E00124,2026-02-10,2026-02-01,Female,24,Revisit,Yes,Male Condoms,Switching,40,1,Yes,Yes,Yes,Negative,48 hours,Negative,Done,None
+DEMO-C0125,DEMO-E00125,2026-09-29,2026-09-01,Female,40,New,No,Male Condoms,Revisit,30,1,Yes,Yes,No,Not tested,Not applicable,Positive,Not eligible,None
+DEMO-C0126,DEMO-E00126,2026-05-28,2026-05-01,Female,38,Revisit,No,Implant 1 Rod,Switching,1,1,Yes,No,Yes,Positive,Not applicable,Negative,Done,Yes
+DEMO-C0127,DEMO-E00127,2026-07-23,2026-07-01,Female,19,New,Yes,DMPA-IM,Switching,1,1,Yes,No,Yes,Not tested,Not applicable,Negative,Not eligible,None
+DEMO-C0128,DEMO-E00128,2026-04-09,2026-04-01,Male,40,New,Yes,DMPA-IM,Check-up,1,1,Yes,Yes,No,Positive,Not applicable,Positive,Not eligible,None
+DEMO-C0129,DEMO-E00129,2026-07-25,2026-07-01,Female,25,New,Yes,Male Condoms,Resupply,30,1,Yes,No,No,Unknown,Immediate,Positive,Not eligible,None
+DEMO-C0130,DEMO-E00130,2026-05-01,2026-05-01,Female,39,New,No,Male Condoms,Check-up,40,1,Yes,Yes,No,Unknown,48 hours,Negative,Done,None
+DEMO-C0131,DEMO-E00131,2026-08-21,2026-08-01,Female,33,Revisit,No,Combined Oral Contraceptive Pills,Revisit,3,1,Yes,Yes,No,Negative,Not applicable,Not screened,Not eligible,None
+DEMO-C0132,DEMO-E00132,2026-02-27,2026-02-01,Female,35,Revisit,Yes,Combined Oral Contraceptive Pills,Check-up,3,1,Yes,Yes,No,Not tested,Immediate,Not screened,Not done,None
+DEMO-C0133,DEMO-E00133,2026-08-21,2026-08-01,Female,32,Revisit,No,Progestin Only Pills,Check-up,3,1,Yes,Yes,No,Positive,Immediate,Negative,Not done,None
+DEMO-C0134,DEMO-E00134,2026-02-02,2026-02-01,Female,19,New,Yes,Implant 1 Rod,Revisit,2,1,Yes,No,No,Not tested,6 weeks,Positive,Not done,None
+DEMO-C0135,DEMO-E00135,2026-07-13,2026-07-01,Female,22,Revisit,No,DMPA-IM,Check-up,3,1,Yes,No,Yes,Positive,48 hours,Negative,Done,Yes
+DEMO-C0136,DEMO-E00136,2026-08-26,2026-08-01,Female,25,Revisit,No,Progestin Only Pills,Revisit,1,1,Yes,No,No,Negative,Immediate,Not screened,Not done,None
+DEMO-C0137,DEMO-E00137,2026-01-09,2026-01-01,Female,37,New,No,Progestin Only Pills,Initiation,2,1,Yes,Yes,Yes,Positive,Immediate,Negative,Not eligible,Yes
+DEMO-C0138,DEMO-E00138,2026-04-30,2026-04-01,Male,42,Revisit,No,Male Condoms,Check-up,50,1,Yes,No,No,Positive,Not applicable,Positive,Not done,None
+DEMO-C0139,DEMO-E00139,2026-03-31,2026-03-01,Female,38,Revisit,No,Combined Oral Contraceptive Pills,Switching,1,1,Yes,Yes,Yes,Not tested,48 hours,Not screened,Not done,None
+DEMO-C0140,DEMO-E00140,2026-04-26,2026-04-01,Female,35,Revisit,No,DMPA-SC,Resupply,1,1,Yes,Yes,Yes,Positive,6 weeks,Not screened,Done,Yes
+DEMO-C0141,DEMO-E00141,2026-07-09,2026-07-01,Female,30,Revisit,No,Male Condoms,Switching,30,1,Yes,Yes,No,Positive,Not applicable,Negative,Not done,None
+DEMO-C0142,DEMO-E00142,2026-01-08,2026-01-01,Female,25,New,No,DMPA-IM,Revisit,2,1,Yes,Yes,Yes,Unknown,Not applicable,Positive,Not eligible,None
+DEMO-C0143,DEMO-E00143,2026-06-07,2026-06-01,Female,43,Revisit,No,Combined Oral Contraceptive Pills,Resupply,1,1,Yes,Yes,Yes,Unknown,Not applicable,Negative,Not eligible,None
+DEMO-C0144,DEMO-E00144,2026-03-16,2026-03-01,Female,27,Revisit,Yes,Progestin Only Pills,Check-up,2,1,Yes,Yes,Yes,Unknown,6 weeks,Positive,Not eligible,None
+DEMO-C0145,DEMO-E00145,2026-09-09,2026-09-01,Female,41,Revisit,No,Female Condoms,Revisit,2,1,Yes,Yes,No,Negative,Immediate,Negative,Not eligible,None
+DEMO-C0146,DEMO-E00146,2026-01-04,2026-01-01,Female,18,Revisit,Yes,Male Condoms,Resupply,20,1,Yes,Yes,No,Not tested,Not applicable,Negative,Done,None
+DEMO-C0147,DEMO-E00147,2026-07-30,2026-07-01,Female,18,Revisit,No,Male Condoms,Resupply,30,1,Yes,No,Yes,Negative,48 hours,Negative,Done,None
+DEMO-C0148,DEMO-E00148,2026-05-10,2026-05-01,Male,30,New,No,Combined Oral Contraceptive Pills,Revisit,1,1,No,Yes,No,Negative,Immediate,Negative,Not done,None
+DEMO-C0149,DEMO-E00149,2026-09-01,2026-09-01,Female,45,New,No,Male Condoms,Check-up,40,1,Yes,No,Yes,Negative,48 hours,Negative,Not eligible,None
+DEMO-C0150,DEMO-E00150,2026-09-01,2026-09-01,Female,35,Revisit,No,DMPA-IM,Initiation,1,1,Yes,No,Yes,Positive,48 hours,Not screened,Not done,Yes
+DEMO-C0151,DEMO-E00151,2026-06-03,2026-06-01,Female,39,New,No,DMPA-SC,Check-up,2,1,Yes,No,No,Negative,6 weeks,Negative,Done,None
+DEMO-C0152,DEMO-E00152,2026-02-08,2026-02-01,Female,42,Revisit,No,Implant 2 Rods,Check-up,2,1,Yes,Yes,Yes,Not tested,Not applicable,Negative,Not eligible,None
+DEMO-C0153,DEMO-E00153,2026-07-14,2026-07-01,Female,20,Revisit,Yes,DMPA-SC,Resupply,1,1,Yes,Yes,No,Unknown,6 weeks,Negative,Done,None
+DEMO-C0154,DEMO-E00154,2026-06-07,2026-06-01,Female,23,Revisit,No,Male Condoms,Switching,10,1,Yes,Yes,Yes,Unknown,Immediate,Not screened,Not eligible,None
+DEMO-C0155,DEMO-E00155,2026-07-17,2026-07-01,Female,25,Revisit,No,DMPA-IM,Revisit,3,1,Yes,Yes,Yes,Unknown,Not applicable,Negative,Done,None
+DEMO-C0156,DEMO-E00156,2026-05-22,2026-05-01,Female,25,Revisit,No,Male Condoms,Resupply,30,1,Yes,Yes,Yes,Unknown,Immediate,Positive,Not done,None
+DEMO-C0157,DEMO-E00157,2026-07-14,2026-07-01,Male,22,New,Yes,Male Condoms,Switching,50,1,No,Yes,Yes,Not tested,6 weeks,Positive,Not eligible,None
+DEMO-C0158,DEMO-E00158,2026-09-09,2026-09-01,Male,44,Revisit,No,Male Condoms,Check-up,30,1,Yes,Yes,No,Positive,Immediate,Not screened,Not done,Yes
+DEMO-C0159,DEMO-E00159,2026-04-18,2026-04-01,Female,39,New,No,DMPA-IM,Check-up,2,1,Yes,Yes,No,Not tested,Immediate,Positive,Not eligible,None
+DEMO-C0160,DEMO-E00160,2026-07-25,2026-07-01,Female,35,Revisit,Yes,Implant 1 Rod,Check-up,2,1,Yes,No,No,Negative,Immediate,Negative,Not eligible,None
+DEMO-C0161,DEMO-E00161,2026-03-27,2026-03-01,Female,42,New,No,IUCD,Resupply,2,1,Yes,Yes,Yes,Positive,Not applicable,Positive,Not done,None
+DEMO-C0162,DEMO-E00162,2026-09-14,2026-09-01,Female,31,Revisit,No,Combined Oral Contraceptive Pills,Initiation,1,1,Yes,No,Yes,Unknown,6 weeks,Positive,Done,None
+DEMO-C0163,DEMO-E00163,2026-06-28,2026-06-01,Female,20,Revisit,Yes,DMPA-IM,Initiation,1,1,Yes,Yes,Yes,Positive,48 hours,Not screened,Done,None
+DEMO-C0164,DEMO-E00164,2026-06-19,2026-06-01,Female,38,Revisit,Yes,Male Condoms,Resupply,40,1,Yes,No,No,Not tested,Not applicable,Positive,Done,None
+DEMO-C0165,DEMO-E00165,2026-04-16,2026-04-01,Female,21,Revisit,No,DMPA-SC,Switching,3,1,Yes,Yes,Yes,Unknown,Not applicable,Not screened,Not eligible,None
+DEMO-C0166,DEMO-E00166,2026-07-18,2026-07-01,Female,37,Revisit,Yes,Female Condoms,Check-up,5,1,Yes,Yes,No,Unknown,Immediate,Negative,Not done,None
+DEMO-C0167,DEMO-E00167,2026-07-11,2026-07-01,Female,36,Revisit,No,Combined Oral Contraceptive Pills,Revisit,1,1,Yes,Yes,No,Positive,48 hours,Positive,Not done,None
+DEMO-C0168,DEMO-E00168,2026-06-11,2026-06-01,Male,33,Revisit,Yes,Implant 1 Rod,Resupply,1,1,No,Yes,Yes,Not tested,Not applicable,Not screened,Not done,None
+DEMO-C0169,DEMO-E00169,2026-02-12,2026-02-01,Female,26,Revisit,Yes,Male Condoms,Check-up,10,1,Yes,Yes,No,Not tested,Immediate,Not screened,Done,None
+DEMO-C0170,DEMO-E00170,2026-07-07,2026-07-01,Female,35,Revisit,Yes,DMPA-IM,Resupply,2,1,Yes,No,No,Unknown,Immediate,Positive,Not done,None
+DEMO-C0171,DEMO-E00171,2026-02-14,2026-02-01,Female,24,Revisit,No,DMPA-IM,Switching,1,1,Yes,No,No,Not tested,48 hours,Not screened,Done,None
+DEMO-C0172,DEMO-E00172,2026-04-16,2026-04-01,Male,35,Revisit,Yes,Progestin Only Pills,Check-up,3,1,Yes,Yes,No,Negative,48 hours,Positive,Done,Yes
+DEMO-C0173,DEMO-E00173,2026-03-06,2026-03-01,Female,44,New,Yes,Male Condoms,Resupply,30,1,Yes,Yes,Yes,Not tested,Not applicable,Positive,Done,None
+DEMO-C0174,DEMO-E00174,2026-02-17,2026-02-01,Female,32,Revisit,No,DMPA-IM,Check-up,1,1,Yes,No,No,Negative,Not applicable,Not screened,Not eligible,None
+DEMO-C0175,DEMO-E00175,2026-02-02,2026-02-01,Male,33,Revisit,Yes,Implant 2 Rods,Check-up,1,1,Yes,Yes,No,Not tested,6 weeks,Not screened,Done,None
+DEMO-C0176,DEMO-E00176,2026-08-24,2026-08-01,Female,18,Revisit,No,Male Condoms,Resupply,40,1,Yes,Yes,Yes,Unknown,48 hours,Positive,Done,None
+DEMO-C0177,DEMO-E00177,2026-05-09,2026-05-01,Female,30,Revisit,No,Emergency Contraception,Revisit,1,1,Yes,Yes,Yes,Positive,Not applicable,Negative,Done,None
+DEMO-C0178,DEMO-E00178,2026-09-23,2026-09-01,Female,45,New,No,DMPA-IM,Revisit,1,1,Yes,Yes,Yes,Negative,Immediate,Positive,Not done,None
+DEMO-C0179,DEMO-E00179,2026-03-12,2026-03-01,Female,20,Revisit,No,Implant 1 Rod,Initiation,1,1,Yes,Yes,Yes,Positive,48 hours,Positive,Not eligible,None
+DEMO-C0180,DEMO-E00180,2026-04-22,2026-04-01,Female,41,New,No,DMPA-IM,Resupply,3,1,Yes,Yes,Yes,Negative,48 hours,Not screened,Not eligible,None
+DEMO-C0181,DEMO-E00181,2026-05-26,2026-05-01,Female,24,Revisit,No,DMPA-SC,Switching,1,1,Yes,Yes,No,Positive,Not applicable,Positive,Done,None
+DEMO-C0182,DEMO-E00182,2026-02-06,2026-02-01,Female,22,Revisit,No,IUCD,Switching,1,1,Yes,Yes,Yes,Not tested,Immediate,Negative,Not eligible,None
+DEMO-C0183,DEMO-E00183,2026-05-15,2026-05-01,Female,34,Revisit,Yes,Implant 2 Rods,Switching,2,1,Yes,Yes,Yes,Positive,6 weeks,Negative,Not done,None
+DEMO-C0184,DEMO-E00184,2026-04-15,2026-04-01,Male,38,New,No,Male Condoms,Initiation,50,1,Yes,Yes,No,Positive,Immediate,Negative,Done,Yes
+DEMO-C0185,DEMO-E00185,2026-03-01,2026-03-01,Female,21,Revisit,Yes,Male Condoms,Revisit,20,1,Yes,Yes,No,Unknown,48 hours,Positive,Done,None
+DEMO-C0186,DEMO-E00186,2026-05-18,2026-05-01,Female,43,New,No,Implant 1 Rod,Switching,1,1,Yes,Yes,No,Negative,Not applicable,Positive,Not eligible,None
+DEMO-C0187,DEMO-E00187,2026-09-13,2026-09-01,Male,36,New,No,Male Condoms,Initiation,10,1,Yes,Yes,Yes,Negative,48 hours,Negative,Not done,None
+DEMO-C0188,DEMO-E00188,2026-03-18,2026-03-01,Female,25,Revisit,No,Male Condoms,Resupply,40,1,Yes,Yes,No,Unknown,Immediate,Not screened,Not eligible,None
+DEMO-C0189,DEMO-E00189,2026-04-02,2026-04-01,Female,20,Revisit,No,Male Condoms,Check-up,40,1,Yes,Yes,Yes,Not tested,Immediate,Positive,Done,None
+DEMO-C0190,DEMO-E00190,2026-06-05,2026-06-01,Female,42,New,No,Female Condoms,Switching,5,1,Yes,Yes,Yes,Not tested,Immediate,Negative,Not eligible,None
+DEMO-C0191,DEMO-E00191,2026-01-05,2026-01-01,Male,21,New,Yes,DMPA-IM,Revisit,1,1,Yes,No,No,Positive,6 weeks,Negative,Done,Yes
+DEMO-C0192,DEMO-E00192,2026-09-24,2026-09-01,Female,36,Revisit,Yes,Combined Oral Contraceptive Pills,Revisit,1,1,Yes,Yes,No,Negative,Not applicable,Not screened,Done,None
+DEMO-C0193,DEMO-E00193,2026-05-14,2026-05-01,Male,28,Revisit,No,Combined Oral Contraceptive Pills,Revisit,1,1,Yes,Yes,No,Negative,48 hours,Negative,Done,None
+DEMO-C0194,DEMO-E00194,2026-06-10,2026-06-01,Female,32,Revisit,Yes,Implant 2 Rods,Check-up,1,1,Yes,Yes,No,Unknown,Immediate,Negative,Not done,None
+DEMO-C0195,DEMO-E00195,2026-05-08,2026-05-01,Male,26,Revisit,No,Male Condoms,Revisit,30,1,Yes,Yes,Yes,Positive,Immediate,Positive,Done,None
+DEMO-C0196,DEMO-E00196,2026-03-13,2026-03-01,Female,22,New,Yes,DMPA-SC,Resupply,1,1,Yes,Yes,No,Unknown,Immediate,Negative,Done,None
+DEMO-C0197,DEMO-E00197,2026-08-16,2026-08-01,Male,21,New,Yes,DMPA-SC,Resupply,1,1,Yes,No,Yes,Not tested,Not applicable,Negative,Not done,None
+DEMO-C0198,DEMO-E00198,2026-03-30,2026-03-01,Female,22,Revisit,Yes,Male Condoms,Switching,40,1,Yes,Yes,Yes,Not tested,Immediate,Negative,Not done,None
+DEMO-C0199,DEMO-E00199,2026-08-03,2026-08-01,Female,43,Revisit,Yes,Progestin Only Pills,Resupply,3,1,Yes,Yes,Yes,Not tested,6 weeks,Not screened,Not eligible,None
+DEMO-C0200,DEMO-E00200,2026-05-19,2026-05-01,Female,19,New,No,Male Condoms,Resupply,30,1,Yes,No,No,Positive,Immediate,Negative,Not eligible,None
+DEMO-C0201,DEMO-E00201,2026-01-29,2026-01-01,Female,29,Revisit,No,Progestin Only Pills,Revisit,2,1,Yes,Yes,No,Unknown,Immediate,Not screened,Not eligible,None
+DEMO-C0202,DEMO-E00202,2026-03-14,2026-03-01,Female,35,New,Yes,IUCD,Resupply,2,1,Yes,Yes,No,Negative,Not applicable,Negative,Not done,None
+DEMO-C0203,DEMO-E00203,2026-04-14,2026-04-01,Male,19,New,Yes,Male Condoms,Switching,30,1,Yes,Yes,Yes,Unknown,Immediate,Positive,Not eligible,Yes
+DEMO-C0204,DEMO-E00204,2026-07-22,2026-07-01,Female,41,New,No,Male Condoms,Resupply,20,1,Yes,Yes,No,Unknown,48 hours,Not screened,Not eligible,None
+DEMO-C0205,DEMO-E00205,2026-07-13,2026-07-01,Female,40,Revisit,No,Male Condoms,Resupply,10,1,Yes,No,No,Positive,6 weeks,Not screened,Done,None
+DEMO-C0206,DEMO-E00206,2026-02-23,2026-02-01,Male,29,New,No,DMPA-IM,Revisit,1,1,Yes,No,No,Unknown,Not applicable,Negative,Not done,None
+DEMO-C0207,DEMO-E00207,2026-02-04,2026-02-01,Female,30,Revisit,No,DMPA-IM,Resupply,1,1,No,No,Yes,Not tested,6 weeks,Not screened,Not done,None
+DEMO-C0208,DEMO-E00208,2026-09-03,2026-09-01,Female,23,Revisit,No,DMPA-IM,Initiation,1,1,Yes,Yes,No,Negative,6 weeks,Negative,Not done,None
+DEMO-C0209,DEMO-E00209,2026-02-08,2026-02-01,Female,37,Revisit,No,Male Condoms,Initiation,50,1,Yes,Yes,No,Not tested,48 hours,Negative,Done,None
+DEMO-C0210,DEMO-E00210,2026-04-08,2026-04-01,Female,26,Revisit,No,Implant 2 Rods,Check-up,3,1,Yes,Yes,No,Not tested,48 hours,Negative,Not done,None
+DEMO-C0211,DEMO-E00211,2026-02-14,2026-02-01,Female,21,Revisit,Yes,Progestin Only Pills,Revisit,1,1,Yes,No,Yes,Negative,6 weeks,Positive,Not done,None
+DEMO-C0212,DEMO-E00212,2026-05-16,2026-05-01,Female,29,Revisit,Yes,Male Condoms,Initiation,40,1,Yes,Yes,Yes,Unknown,Immediate,Negative,Not eligible,None
+DEMO-C0213,DEMO-E00213,2026-02-13,2026-02-01,Female,25,Revisit,No,Combined Oral Contraceptive Pills,Resupply,3,1,Yes,Yes,Yes,Not tested,48 hours,Positive,Not done,None
+DEMO-C0214,DEMO-E00214,2026-01-18,2026-01-01,Female,22,Revisit,Yes,DMPA-SC,Resupply,3,1,Yes,No,No,Positive,48 hours,Negative,Not done,None
+DEMO-C0215,DEMO-E00215,2026-08-11,2026-08-01,Female,26,Revisit,Yes,Male Condoms,Initiation,50,1,Yes,Yes,No,Unknown,Not applicable,Negative,Not eligible,None
+DEMO-C0216,DEMO-E00216,2026-09-25,2026-09-01,Female,36,New,No,Male Condoms,Initiation,50,1,No,Yes,Yes,Unknown,6 weeks,Positive,Not done,None
+DEMO-C0217,DEMO-E00217,2026-09-06,2026-09-01,Female,22,Revisit,No,Male Condoms,Resupply,40,1,Yes,No,Yes,Positive,Immediate,Not screened,Not done,Yes
+DEMO-C0218,DEMO-E00218,2026-07-10,2026-07-01,Female,44,Revisit,No,Male Condoms,Initiation,30,1,No,Yes,Yes,Not tested,6 weeks,Positive,Not eligible,None
+DEMO-C0219,DEMO-E00219,2026-02-15,2026-02-01,Female,42,New,No,DMPA-SC,Check-up,2,1,Yes,Yes,Yes,Unknown,Not applicable,Negative,Not eligible,None
+DEMO-C0220,DEMO-E00220,2026-01-15,2026-01-01,Female,25,Revisit,Yes,Male Condoms,Initiation,10,1,Yes,Yes,Yes,Not tested,Not applicable,Not screened,Done,None
+DEMO-C0221,DEMO-E00221,2026-05-04,2026-05-01,Female,36,Revisit,No,Male Condoms,Check-up,40,1,Yes,No,No,Negative,6 weeks,Negative,Not done,None
+DEMO-C0222,DEMO-E00222,2026-04-20,2026-04-01,Male,38,Revisit,No,DMPA-IM,Initiation,1,1,Yes,No,No,Not tested,48 hours,Not screened,Done,None
+DEMO-C0223,DEMO-E00223,2026-01-05,2026-01-01,Female,31,Revisit,No,Implant 2 Rods,Check-up,1,1,Yes,Yes,Yes,Not tested,Immediate,Negative,Not eligible,Yes
+DEMO-C0224,DEMO-E00224,2026-07-11,2026-07-01,Female,33,Revisit,Yes,Male Condoms,Check-up,10,1,Yes,No,Yes,Unknown,48 hours,Negative,Not eligible,None
+DEMO-C0225,DEMO-E00225,2026-01-30,2026-01-01,Male,39,Revisit,Yes,Progestin Only Pills,Initiation,1,1,Yes,No,Yes,Not tested,Not applicable,Positive,Not eligible,None
+DEMO-C0226,DEMO-E00226,2026-04-08,2026-04-01,Female,39,Revisit,No,DMPA-IM,Check-up,2,1,Yes,No,No,Positive,6 weeks,Negative,Not done,None
+DEMO-C0227,DEMO-E00227,2026-05-13,2026-05-01,Female,38,Revisit,Yes,Implant 1 Rod,Check-up,1,1,Yes,No,Yes,Unknown,6 weeks,Positive,Not eligible,None
+DEMO-C0228,DEMO-E00228,2026-03-02,2026-03-01,Female,20,Revisit,No,Progestin Only Pills,Revisit,3,1,Yes,No,Yes,Unknown,Not applicable,Negative,Done,None
+DEMO-C0229,DEMO-E00229,2026-04-13,2026-04-01,Female,22,Revisit,Yes,Implant 1 Rod,Revisit,2,1,Yes,Yes,No,Positive,6 weeks,Not screened,Done,None
+DEMO-C0230,DEMO-E00230,2026-05-21,2026-05-01,Female,33,Revisit,No,Progestin Only Pills,Initiation,1,1,Yes,Yes,Yes,Not tested,Not applicable,Positive,Done,None
+DEMO-C0231,DEMO-E00231,2026-04-13,2026-04-01,Female,24,Revisit,Yes,Implant 1 Rod,Initiation,3,1,Yes,Yes,No,Unknown,6 weeks,Negative,Done,None
+DEMO-C0232,DEMO-E00232,2026-06-06,2026-06-01,Female,32,Revisit,No,Male Condoms,Switching,30,1,Yes,Yes,No,Positive,6 weeks,Positive,Not done,None
+DEMO-C0233,DEMO-E00233,2026-03-26,2026-03-01,Male,25,Revisit,No,Combined Oral Contraceptive Pills,Revisit,1,1,Yes,Yes,Yes,Negative,6 weeks,Not screened,Not eligible,None
+DEMO-C0234,DEMO-E00234,2026-07-12,2026-07-01,Male,37,New,No,Progestin Only Pills,Initiation,1,1,Yes,Yes,No,Not tested,Not applicable,Positive,Done,None
+DEMO-C0235,DEMO-E00235,2026-08-31,2026-08-01,Female,27,New,No,DMPA-IM,Initiation,1,1,Yes,Yes,No,Positive,Not applicable,Negative,Not eligible,None
+DEMO-C0236,DEMO-E00236,2026-03-02,2026-03-01,Female,24,Revisit,No,Combined Oral Contraceptive Pills,Switching,3,1,No,Yes,Yes,Positive,Immediate,Not screened,Not done,None
+DEMO-C0237,DEMO-E00237,2026-09-04,2026-09-01,Female,44,New,No,DMPA-IM,Resupply,1,1,Yes,Yes,Yes,Negative,6 weeks,Not screened,Done,None
+DEMO-C0238,DEMO-E00238,2026-06-01,2026-06-01,Female,45,New,Yes,DMPA-SC,Check-up,1,1,Yes,Yes,No,Negative,Immediate,Negative,Not eligible,None
+DEMO-C0239,DEMO-E00239,2026-06-18,2026-06-01,Female,29,Revisit,No,Emergency Contraception,Revisit,1,1,Yes,Yes,Yes,Not tested,Not applicable,Positive,Not eligible,None
+DEMO-C0240,DEMO-E00240,2026-03-27,2026-03-01,Female,21,Revisit,No,Male Condoms,Switching,20,1,Yes,Yes,Yes,Not tested,6 weeks,Not screened,Done,None
